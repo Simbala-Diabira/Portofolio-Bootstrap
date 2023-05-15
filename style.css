@@ -1,0 +1,33 @@
+/* Centrer le formulaire */
+form {
+    margin: 0 auto;
+    max-width: 500px;
+  }
+  
+  /* Ajouter de l'espace entre les éléments */
+  .form-group {
+    margin-bottom: 1rem;
+  }
+  
+  /* Définir la taille de la police pour les labels */
+  label {
+    font-size: 1.1rem;
+  }
+  
+  /* Ajouter de l'espace pour le bouton */
+  button {
+    margin-top: 1rem;
+  }
+  
+  /* Changer la couleur du bouton d'envoi */
+  .btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+  }
+  
+  /* Changer la couleur du texte du bouton d'envoi */
+  .btn-primary:hover {
+    background-color: #0069d9;
+    border-color: #0062cc;
+  }
+  

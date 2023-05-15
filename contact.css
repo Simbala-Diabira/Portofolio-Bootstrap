@@ -1,0 +1,19 @@
+#contact {
+    height: 700px; /* Hauteur de la section de contact */
+  }
+
+  #contact {
+    height: 700px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+
+  #contact form input[type="text"],
+#contact form input[type="email"],
+#contact form textarea {
+  font-size: 18px; /* Taille de police pour les champs de formulaire */
+  height: 50px; /* Hauteur des champs de formulaire */
+  border-radius: 5px; /* Bordure arrondie pour les champs de formulaire */
+}
